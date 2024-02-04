@@ -1,0 +1,7 @@
+body nav h3{
+    font-family: 'Open Sans', sans-serif;
+}
+nav{
+    display: flex;
+    text-decoration: none;
+}
