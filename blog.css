@@ -91,4 +91,15 @@ h2{
    margin: auto;
    color: #181818;
 }
+.description{
+    color:#757575;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+}
+.info-title{
+    color:#757575;  
+}
+
 
